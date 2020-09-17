@@ -11,6 +11,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class InitializeTest {
@@ -28,15 +29,17 @@ public class InitializeTest {
 		
 		
 		if(wd==null) {
-		if(browser.contains("firefox"))
+		if(browser.equals("firefox"))
 		{
-			System.out.println("firefoxdiver");
+			
 			wd=new FirefoxDriver();
 			
 		}
 		else if(browser.contains("chrome")) 
 		{
-			wd=new ChromeDriver();
+			System.setProperty("webdriver.chrome.driver", "C:\\WORKSPACE\\WebDrive\\browser\\chromedriver.exe");
+			ChromeOptions options=new ChromeOptions();
+			wd=new ChromeDriver(options);
 		}
 	}
 		wd.manage().window().maximize();
