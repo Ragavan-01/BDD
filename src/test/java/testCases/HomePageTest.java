@@ -2,14 +2,15 @@ package testCases;
 
 import java.io.IOException;
 
-
-
+import cucumber.api.Scenario;
+import cucumber.api.java.After;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import initializer.DriverFunctions;
 import initializer.InitializeTest;
 import pageObject.HomePageObject;
+import reportGenerator.ScreenshotGen;
 
 public class HomePageTest extends InitializeTest{
 
@@ -56,6 +57,7 @@ public class HomePageTest extends InitializeTest{
 	@Then("^click gst$")
 	public void clickGst()
 	{
+		int i=1/0;
 		HomePageObject.clickGST();
 	}
 	@Then("^click cod$")
@@ -68,4 +70,14 @@ public class HomePageTest extends InitializeTest{
 	{
 		HomePageObject.clickPlaceOrder();
 	}
+	@After
+	public void tearDown(Scenario s) throws IOException {
+		if(s.isFailed())
+		{
+			ScreenshotGen.generateScreenshot(s);
+		}
+		
+	}
+	
+	
 }

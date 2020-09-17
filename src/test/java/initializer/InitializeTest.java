@@ -14,14 +14,22 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+
+
 public class InitializeTest {
 
 	public static WebDriver wd=null;
 	public static Properties locatorprop=null;
 	public static FileInputStream locatorfis=null;
 	
+	/**
+	 * create Report Variables
+	 */
+	
+	
 	
 	public static void initializer(String browser) throws IOException {
+		
 		//Locate the Properties
 		locatorfis=new FileInputStream(new File("C:\\WORKSPACE\\BDD\\src\\test\\resources\\config\\locator.properties"));
 		 locatorprop=new Properties();
@@ -44,6 +52,7 @@ public class InitializeTest {
 	}
 		wd.manage().window().maximize();
 		wd.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		wd.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
 		
 	}
 	

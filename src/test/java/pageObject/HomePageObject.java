@@ -1,11 +1,15 @@
 package pageObject;
 
 
+
+
 import org.openqa.selenium.WebElement;
+
 
 
 import initializer.DriverFunctions;
 import initializer.InitializeTest;
+
 
 public class HomePageObject extends InitializeTest {
 
@@ -45,6 +49,7 @@ public class HomePageObject extends InitializeTest {
 	public static void clickPlaceOrder()
 	{
 		getWebelement("HOMEPAGE_CLICK_PLACEORDER_ID").click();
-		}
+	}
+	
 	
 }

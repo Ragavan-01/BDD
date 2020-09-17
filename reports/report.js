@@ -271,7 +271,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 3129226000,
+  "duration": 4386384401,
   "status": "passed"
 });
 formatter.match({
@@ -284,7 +284,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 3154916999,
+  "duration": 1710051000,
   "status": "passed"
 });
 formatter.match({
@@ -297,7 +297,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 93682799,
+  "duration": 158087999,
   "status": "passed"
 });
 formatter.match({
@@ -310,7 +310,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 60449400,
+  "duration": 97723299,
   "status": "passed"
 });
 formatter.match({
@@ -323,7 +323,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 61040500,
+  "duration": 100117300,
   "status": "passed"
 });
 formatter.match({
@@ -336,7 +336,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 195056001,
+  "duration": 364073999,
   "status": "passed"
 });
 formatter.match({
@@ -349,7 +349,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 38336600,
+  "duration": 105226100,
   "status": "passed"
 });
 formatter.match({
@@ -362,28 +362,32 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 51586799,
+  "duration": 91155100,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 99038800,
-  "status": "passed"
+  "duration": 804900,
+  "error_message": "java.lang.ArithmeticException: / by zero\r\n\tat testCases.HomePageTest.clickGst(HomePageTest.java:60)\r\n\tat ✽.Then click gst(home.feature:13)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 121982600,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 2255132800,
+  "status": "skipped"
+});
+formatter.embedding("image/jpeg", "embedded0.jpg");
+formatter.after({
+  "duration": 133998000,
   "status": "passed"
 });
 formatter.scenario({
@@ -489,7 +493,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 18437600,
+  "duration": 24656800,
   "status": "passed"
 });
 formatter.match({
@@ -502,7 +506,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 772292600,
+  "duration": 1265258400,
   "status": "passed"
 });
 formatter.match({
@@ -515,7 +519,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 49705200,
+  "duration": 77024100,
   "status": "passed"
 });
 formatter.match({
@@ -528,7 +532,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 56432801,
+  "duration": 84792800,
   "status": "passed"
 });
 formatter.match({
@@ -541,7 +545,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 58085401,
+  "duration": 78233500,
   "status": "passed"
 });
 formatter.match({
@@ -554,7 +558,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 132041800,
+  "duration": 209091701,
   "status": "passed"
 });
 formatter.match({
@@ -567,7 +571,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 41724401,
+  "duration": 65864101,
   "status": "passed"
 });
 formatter.match({
@@ -580,28 +584,32 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 55195900,
+  "duration": 55769700,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 68156300,
-  "status": "passed"
+  "duration": 180700,
+  "error_message": "java.lang.ArithmeticException: / by zero\r\n\tat testCases.HomePageTest.clickGst(HomePageTest.java:60)\r\n\tat ✽.Then click gst(home.feature:13)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 69115401,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 656878400,
+  "status": "skipped"
+});
+formatter.embedding("image/jpeg", "embedded1.jpg");
+formatter.after({
+  "duration": 158851801,
   "status": "passed"
 });
 formatter.scenario({
@@ -707,7 +715,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 13606800,
+  "duration": 25476500,
   "status": "passed"
 });
 formatter.match({
@@ -720,7 +728,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 557696300,
+  "duration": 606282000,
   "status": "passed"
 });
 formatter.match({
@@ -733,7 +741,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 57472101,
+  "duration": 61407000,
   "status": "passed"
 });
 formatter.match({
@@ -746,7 +754,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 50012100,
+  "duration": 49056601,
   "status": "passed"
 });
 formatter.match({
@@ -759,7 +767,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 61782401,
+  "duration": 98042901,
   "status": "passed"
 });
 formatter.match({
@@ -772,7 +780,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 145390500,
+  "duration": 170336999,
   "status": "passed"
 });
 formatter.match({
@@ -785,7 +793,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 46299499,
+  "duration": 66017400,
   "status": "passed"
 });
 formatter.match({
@@ -798,28 +806,32 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 48038201,
+  "duration": 65863300,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 70087699,
-  "status": "passed"
+  "duration": 172700,
+  "error_message": "java.lang.ArithmeticException: / by zero\r\n\tat testCases.HomePageTest.clickGst(HomePageTest.java:60)\r\n\tat ✽.Then click gst(home.feature:13)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 77733700,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 554561301,
+  "status": "skipped"
+});
+formatter.embedding("image/jpeg", "embedded2.jpg");
+formatter.after({
+  "duration": 80128800,
   "status": "passed"
 });
 formatter.scenario({
@@ -925,7 +937,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 15026599,
+  "duration": 65121600,
   "status": "passed"
 });
 formatter.match({
@@ -938,7 +950,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 514515700,
+  "duration": 2553051800,
   "status": "passed"
 });
 formatter.match({
@@ -951,7 +963,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 55071800,
+  "duration": 100347000,
   "status": "passed"
 });
 formatter.match({
@@ -964,7 +976,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 54214900,
+  "duration": 77027100,
   "status": "passed"
 });
 formatter.match({
@@ -977,7 +989,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 58038900,
+  "duration": 87380001,
   "status": "passed"
 });
 formatter.match({
@@ -990,7 +1002,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 164828800,
+  "duration": 214488400,
   "status": "passed"
 });
 formatter.match({
@@ -1003,7 +1015,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 49552901,
+  "duration": 50856400,
   "status": "passed"
 });
 formatter.match({
@@ -1016,28 +1028,32 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 61092100,
+  "duration": 61463099,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 84523900,
-  "status": "passed"
+  "duration": 389900,
+  "error_message": "java.lang.ArithmeticException: / by zero\r\n\tat testCases.HomePageTest.clickGst(HomePageTest.java:60)\r\n\tat ✽.Then click gst(home.feature:13)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 74394500,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 650560599,
+  "status": "skipped"
+});
+formatter.embedding("image/jpeg", "embedded3.jpg");
+formatter.after({
+  "duration": 97438700,
   "status": "passed"
 });
 formatter.scenario({
@@ -1143,7 +1159,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 43133500,
+  "duration": 51385300,
   "status": "passed"
 });
 formatter.match({
@@ -1156,7 +1172,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 512211099,
+  "duration": 633407901,
   "status": "passed"
 });
 formatter.match({
@@ -1169,7 +1185,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 52468401,
+  "duration": 63048900,
   "status": "passed"
 });
 formatter.match({
@@ -1182,7 +1198,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 59874999,
+  "duration": 94109900,
   "status": "passed"
 });
 formatter.match({
@@ -1195,7 +1211,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 70735000,
+  "duration": 94395699,
   "status": "passed"
 });
 formatter.match({
@@ -1208,7 +1224,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 133481199,
+  "duration": 221069300,
   "status": "passed"
 });
 formatter.match({
@@ -1221,7 +1237,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 48618899,
+  "duration": 78178900,
   "status": "passed"
 });
 formatter.match({
@@ -1234,28 +1250,32 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 56047599,
+  "duration": 90094900,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 75598001,
-  "status": "passed"
+  "duration": 669400,
+  "error_message": "java.lang.ArithmeticException: / by zero\r\n\tat testCases.HomePageTest.clickGst(HomePageTest.java:60)\r\n\tat ✽.Then click gst(home.feature:13)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 79571800,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 567994301,
+  "status": "skipped"
+});
+formatter.embedding("image/jpeg", "embedded4.jpg");
+formatter.after({
+  "duration": 105918000,
   "status": "passed"
 });
 });
