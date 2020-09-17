@@ -271,7 +271,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 3201684800,
+  "duration": 3129226000,
   "status": "passed"
 });
 formatter.match({
@@ -284,7 +284,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 2304585700,
+  "duration": 3154916999,
   "status": "passed"
 });
 formatter.match({
@@ -297,7 +297,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 94228899,
+  "duration": 93682799,
   "status": "passed"
 });
 formatter.match({
@@ -310,7 +310,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 54128900,
+  "duration": 60449400,
   "status": "passed"
 });
 formatter.match({
@@ -323,7 +323,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 64305499,
+  "duration": 61040500,
   "status": "passed"
 });
 formatter.match({
@@ -336,7 +336,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 200498101,
+  "duration": 195056001,
   "status": "passed"
 });
 formatter.match({
@@ -349,7 +349,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 50651200,
+  "duration": 38336600,
   "status": "passed"
 });
 formatter.match({
@@ -362,28 +362,28 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 60126899,
+  "duration": 51586799,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 71707101,
+  "duration": 99038800,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 101808701,
+  "duration": 121982600,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 638433600,
+  "duration": 2255132800,
   "status": "passed"
 });
 formatter.scenario({
@@ -489,7 +489,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 13413399,
+  "duration": 18437600,
   "status": "passed"
 });
 formatter.match({
@@ -502,7 +502,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 505481200,
+  "duration": 772292600,
   "status": "passed"
 });
 formatter.match({
@@ -515,7 +515,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 50755399,
+  "duration": 49705200,
   "status": "passed"
 });
 formatter.match({
@@ -528,7 +528,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 52258300,
+  "duration": 56432801,
   "status": "passed"
 });
 formatter.match({
@@ -541,7 +541,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 63442801,
+  "duration": 58085401,
   "status": "passed"
 });
 formatter.match({
@@ -554,7 +554,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 127205600,
+  "duration": 132041800,
   "status": "passed"
 });
 formatter.match({
@@ -567,7 +567,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 38988001,
+  "duration": 41724401,
   "status": "passed"
 });
 formatter.match({
@@ -580,28 +580,28 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 50530499,
+  "duration": 55195900,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 69978500,
+  "duration": 68156300,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 70703699,
+  "duration": 69115401,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 551358300,
+  "duration": 656878400,
   "status": "passed"
 });
 formatter.scenario({
@@ -707,7 +707,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 13775200,
+  "duration": 13606800,
   "status": "passed"
 });
 formatter.match({
@@ -720,7 +720,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 511636300,
+  "duration": 557696300,
   "status": "passed"
 });
 formatter.match({
@@ -733,7 +733,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 52020300,
+  "duration": 57472101,
   "status": "passed"
 });
 formatter.match({
@@ -746,7 +746,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 48738401,
+  "duration": 50012100,
   "status": "passed"
 });
 formatter.match({
@@ -759,7 +759,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 64570399,
+  "duration": 61782401,
   "status": "passed"
 });
 formatter.match({
@@ -772,7 +772,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 124775400,
+  "duration": 145390500,
   "status": "passed"
 });
 formatter.match({
@@ -785,7 +785,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 47351100,
+  "duration": 46299499,
   "status": "passed"
 });
 formatter.match({
@@ -798,28 +798,28 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 47966100,
+  "duration": 48038201,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 68346499,
+  "duration": 70087699,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 75531500,
+  "duration": 77733700,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 543249900,
+  "duration": 554561301,
   "status": "passed"
 });
 formatter.scenario({
@@ -925,7 +925,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 27942301,
+  "duration": 15026599,
   "status": "passed"
 });
 formatter.match({
@@ -938,7 +938,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 496391400,
+  "duration": 514515700,
   "status": "passed"
 });
 formatter.match({
@@ -951,7 +951,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 71068800,
+  "duration": 55071800,
   "status": "passed"
 });
 formatter.match({
@@ -964,7 +964,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 46350400,
+  "duration": 54214900,
   "status": "passed"
 });
 formatter.match({
@@ -977,7 +977,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 65399800,
+  "duration": 58038900,
   "status": "passed"
 });
 formatter.match({
@@ -990,7 +990,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 132540100,
+  "duration": 164828800,
   "status": "passed"
 });
 formatter.match({
@@ -1003,7 +1003,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 47451800,
+  "duration": 49552901,
   "status": "passed"
 });
 formatter.match({
@@ -1016,28 +1016,28 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 54528000,
+  "duration": 61092100,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 71475000,
+  "duration": 84523900,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 72937501,
+  "duration": 74394500,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 636865299,
+  "duration": 650560599,
   "status": "passed"
 });
 formatter.scenario({
@@ -1143,7 +1143,7 @@ formatter.match({
   "location": "HomePageTest.openBrowser(String)"
 });
 formatter.result({
-  "duration": 14831800,
+  "duration": 43133500,
   "status": "passed"
 });
 formatter.match({
@@ -1156,7 +1156,7 @@ formatter.match({
   "location": "HomePageTest.enterUrl(String)"
 });
 formatter.result({
-  "duration": 524333800,
+  "duration": 512211099,
   "status": "passed"
 });
 formatter.match({
@@ -1169,7 +1169,7 @@ formatter.match({
   "location": "HomePageTest.enterProductname(String)"
 });
 formatter.result({
-  "duration": 53444799,
+  "duration": 52468401,
   "status": "passed"
 });
 formatter.match({
@@ -1182,7 +1182,7 @@ formatter.match({
   "location": "HomePageTest.enterMobile(String)"
 });
 formatter.result({
-  "duration": 57966500,
+  "duration": 59874999,
   "status": "passed"
 });
 formatter.match({
@@ -1195,7 +1195,7 @@ formatter.match({
   "location": "HomePageTest.enterEmail(String)"
 });
 formatter.result({
-  "duration": 64908800,
+  "duration": 70735000,
   "status": "passed"
 });
 formatter.match({
@@ -1208,7 +1208,7 @@ formatter.match({
   "location": "HomePageTest.selectProductCatogry(String)"
 });
 formatter.result({
-  "duration": 158809900,
+  "duration": 133481199,
   "status": "passed"
 });
 formatter.match({
@@ -1221,7 +1221,7 @@ formatter.match({
   "location": "HomePageTest.enterProductqty(String)"
 });
 formatter.result({
-  "duration": 49952899,
+  "duration": 48618899,
   "status": "passed"
 });
 formatter.match({
@@ -1234,28 +1234,28 @@ formatter.match({
   "location": "HomePageTest.enterName(String)"
 });
 formatter.result({
-  "duration": 50484200,
+  "duration": 56047599,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickGst()"
 });
 formatter.result({
-  "duration": 73862001,
+  "duration": 75598001,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickCod()"
 });
 formatter.result({
-  "duration": 75108700,
+  "duration": 79571800,
   "status": "passed"
 });
 formatter.match({
   "location": "HomePageTest.clickPlaceorder()"
 });
 formatter.result({
-  "duration": 550266100,
+  "duration": 567994301,
   "status": "passed"
 });
 });
